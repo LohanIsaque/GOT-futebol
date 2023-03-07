@@ -1,0 +1,19 @@
+@import "nav.css";
+@import "imagemPrincipal.css";
+@import "secaoimagens.css";
+@import "sobre.html";
+@import "imagemPrincipal2.css";
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: rgb(217, 217, 217);
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
